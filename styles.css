@@ -42,3 +42,9 @@ h1 {
 	font-size: 5em;
 	font-weight: 100;
 }
+.logo {
+	width: 90vw;
+	max-height: 20vh;
+	margin: 0 auto;
+	display: block;
+}
